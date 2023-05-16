@@ -1,0 +1,28 @@
+
+.body {
+    font: 20px Arial, sans-serif;
+}
+.container-fluid {
+    background-color: #D7BDE2;
+   
+}
+.quem-somos {
+    background-color: rgb(230, 238, 238);
+    color:red
+    
+}
+
+.margin {
+    
+    padding-bottom: 50;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: aqua;
+
+}
+
+.servicos {
+    background-color: blueviolet;
+}
